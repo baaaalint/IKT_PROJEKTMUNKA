@@ -10,6 +10,25 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="container">
+
+        <fieldset>
+            <form>
+                <legend>Téglalap adatai</legend>
+                <div class="mb-3">
+                    <label for="aoldal" class="form-label">Átváltani kívánt összeg</label>
+                    <input type="number" class="form-control" id="aoldal" aria-describedby="aoldalHelp">
+                    <div id="aoldalHelp" class="form-text">Adja meg az átváltani kívánt összeget!</div>
+                </div>
+                
+                <button type="button" onclick="szamol()" class="btn btn-primary">Számol</button>
+            </form>
+        </fieldset>
+        <div id="eredmeny" class="mt-3 fw-bold">
+
+        </div>
+    </div>
+
 
 
 
