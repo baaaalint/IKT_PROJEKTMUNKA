@@ -5,3 +5,27 @@
 .piros{
     color: red;
 }
+.kep{
+    width: 40rem;
+    height: 30rem;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  .tablazat{
+      margin-bottom: 2rem;
+  }
+  a{
+      color: gold;
+      text-decoration: none;
+  }
+  a:hover {
+    color: darkorange;
+
+  }
