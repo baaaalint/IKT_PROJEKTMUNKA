@@ -29,3 +29,12 @@
     color: darkorange;
 
   }
+
+  .majom{
+      float: right;
+  }
+
+  .malac{
+      float: left;
+      margin-right: 25px;
+  }
