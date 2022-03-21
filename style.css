@@ -30,7 +30,7 @@
 
   }
 
-  .majom{
+  .kepjobb{
       float: right;
   }
 
@@ -47,4 +47,15 @@
   .befektetes2{
       float: right;
       width: 40rem;
+  }
+
+  .kepjobb2{
+      float: right;
+      height: 17rem;
+  }
+
+  .kepbal{
+      float: left;
+      height: 10rem;
+      margin-right: 25px;
   }
