@@ -30,7 +30,7 @@
 
   }
 
-  .majom{
+  .kepjobb{
       float: right;
   }
 
@@ -38,3 +38,15 @@
       float: left;
       margin-right: 25px;
   }
+
+  .kepjobb2{
+      float: right;
+      height: 17rem;
+  }
+
+  .kepbal{
+      float: left;
+      height: 10rem;
+      margin-right: 25px;
+  }
+
