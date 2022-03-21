@@ -38,3 +38,13 @@
       float: left;
       margin-right: 25px;
   }
+  .befektetes{
+      float: right;
+      width: 34rem;
+      margin-bottom: 25px;
+      
+  }
+  .befektetes2{
+      float: right;
+      width: 40rem;
+  }
