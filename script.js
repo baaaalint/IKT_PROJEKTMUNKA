@@ -8,7 +8,7 @@ function szamol() {
     const aoldal = parseFloat(document.querySelector('#aoldal').value);
     const boldal = parseFloat(document.querySelector('#boldal').value);
 
-    const terulet = aoldal * boldal
+    const terulet = aoldal / boldal
    
     console.log("A téglalap területe: " + terulet);
 
