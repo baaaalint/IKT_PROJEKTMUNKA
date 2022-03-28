@@ -75,13 +75,14 @@
   .banyaszat3{
       float: right;
       width: 40rem;
-      margin: 15px;
+      margin-left: 25px;
   }
 
   .banyaszat1{
       float: left;
       width: 40rem;
-      margin-right: 20px;
+      margin-right: 30px;
+      margin-top: 10px;
   }
 
   .video{
@@ -100,5 +101,7 @@
   h1, h2, h3, h4{
       color: white;
   }
+
+
 
   
