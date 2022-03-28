@@ -68,8 +68,8 @@
 
   .bitcoin2{
       float: left;
-      height: 15rem;
       margin-right: 20px;
+      width: 1300px;
   }
   .banyaszat3{
       float: right;
@@ -78,7 +78,7 @@
   }
 
   body{
-      background-image: url(hatter4.jpg);
+      background-image: url(kep/hatter4.jpg);
   }
 
   p{
