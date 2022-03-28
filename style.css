@@ -85,9 +85,9 @@
   }
 
   .video{
-      border: solid black 5px;
+      border: solid white 4px;
       display: inline-block;
-      margin-bottom: 5px;
+      margin-bottom: 15px;
   }
   body{
       background-image: url(kep/hatter4.jpg);
