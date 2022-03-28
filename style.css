@@ -76,3 +76,17 @@
       width: 40rem;
       margin: 15px;
   }
+
+  body{
+      background-image: url(hatter4.jpg);
+  }
+
+  p{
+      color: white;
+  }
+
+  h1, h2, h3, h4{
+      color: white;
+  }
+
+  
