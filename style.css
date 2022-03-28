@@ -71,12 +71,24 @@
       margin-right: 20px;
       width: 1300px;
   }
+
   .banyaszat3{
       float: right;
       width: 40rem;
       margin: 15px;
   }
 
+  .banyaszat1{
+      float: left;
+      width: 40rem;
+      margin-right: 20px;
+  }
+
+  .video{
+      border: solid black 5px;
+      display: inline-block;
+      margin-bottom: 5px;
+  }
   body{
       background-image: url(kep/hatter4.jpg);
   }
