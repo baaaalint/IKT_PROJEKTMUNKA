@@ -44,6 +44,7 @@
       margin-bottom: 25px;
       border: solid white 5px;
       padding: 0;
+      margin-right: 6px;
       
   }
   .befektetes2{
@@ -51,6 +52,7 @@
       width: 40rem;
       border: solid white 5px;
       padding: 0;
+      margin-left: 10px;
   }
 
   .kepjobb2{
@@ -67,13 +69,15 @@
   .bitcoin1{
       float: right;
       height: 18rem;
-      margin-left: 25px;
+      margin-left: 15px;
+      margin-right: 20px;
   }
 
   .bitcoin2{
       float: left;
       margin-right: 20px;
-      width: 1300px;
+      width: 1275px;  
+      margin-top: 10px;
   }
 
   .banyaszat3{
@@ -103,6 +107,9 @@
   }
 
   h1, h2, h3, h4{
+      color: white;
+  }
+  .feher{
       color: white;
   }
 
